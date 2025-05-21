@@ -28,7 +28,7 @@ application for field use.
 6. Enhanced Visualization Tools : Incorporate interactive dashboards or heatmaps to show detection frequency 
 and types. 
 7. Integration with Geographic Data : Add location tagging (GPS) for mapping detected threats on real-time maps. 
---- 
+
 ## Conclusion 
 This project successfully demonstrates how computer vision can enhance military 
 surveillance by detecting weapons and extracting relevant text from images. Using YOLOv8 
